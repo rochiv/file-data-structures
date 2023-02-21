@@ -1,0 +1,22 @@
+<table>
+    <schema>
+        <tableName>noNulls1</tableName>
+        <columns primary="0">
+            <column name="id" type="integer"/>
+            <column name="name" type="string"/>
+            <column name="flag" type="boolean"/>
+        </columns>
+    </schema>
+    <state>
+        <row>
+            <field>2</field>
+            <field>toyota</field>
+            <field>false</field>
+        </row>
+        <row>
+            <field>3</field>
+            <field>honda</field>
+            <field>true</field>
+        </row>
+    </state>
+</table>

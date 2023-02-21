@@ -1,0 +1,31 @@
+<table>
+    <schema>
+        <tableName>oneNull</tableName>
+        <columns primary="0">
+            <column name="id" type="integer"/>
+            <column name="name" type="string"/>
+            <column name="flag" type="boolean"/>
+            <column name="model" type="string"/>
+        </columns>
+    </schema>
+    <state>
+        <row>
+            <field>2</field>
+            <field>tesla</field>
+            <field>false</field>
+            <field>model 3</field>
+        </row>
+        <row>
+            <field>4</field>
+            <field>hyndai</field>
+            <field>false</field>
+            <field>sonata</field>
+        </row>
+        <row>
+            <field>6</field>
+            <field>null</field>
+            <field>false</field>
+            <field>null</field>
+        </row>
+    </state>
+</table>

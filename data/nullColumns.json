@@ -1,0 +1,23 @@
+{
+    "schema": {
+        "table_name": "nullColumns",
+        "column_names": [
+            "id",
+            "name",
+            "flag"
+        ],
+        "column_types": [
+            "integer",
+            "string",
+            "boolean"
+        ],
+        "primary_index": 0
+    },
+    "state": {
+        "row": [
+            0,
+            null,
+            null
+        ]
+    }
+}
