@@ -14,3 +14,5 @@ This project is a persistent database management system that uses SQL.
 - SELECT 
 - EXPORT 
 - IMPORT 
+
+###### Coming Soon: Setup instructions and requirements
