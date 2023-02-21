@@ -1,21 +1,16 @@
-# CS 210 for Fall 2021
+# File and Data Structures 
 
-This is the term project for CS 210, File and Data Structures. Follow the instructions in the term project document to complete the work.
+###### WVU CS210, Fall 2021
+###### Instructor: Mr. Ron Reaser 
 
-## Author Identification
+This project is a persistent database management system that uses SQL. 
 
-I am the author of all original work committed to this repository, as identified below.
-
-<<<<<<< HEAD
-+ **Full Name:** Rohit Chivukula
-+ **University Email:** rc00008@mix.wvu.edu
-+ **Student ID:** 800336657
-=======
-+ **Full Name:** My Full Name
-+ **University Email:** example@mix.wvu.edu
-+ **Student ID:** 000000000
->>>>>>> refs/remotes/upstream/master
-
-## Academic Integrity Pledge
-
-By committing my identification above, I pledge to comply with the academic integrity policy as stated in the syllabus. I acknowledge that I can earn no grades in the course until I have done so.
+### Features: 
+- CREATE
+- DROP 
+- SHOW 
+- INSERT 
+- REPLACE 
+- SELECT 
+- EXPORT 
+- IMPORT 
